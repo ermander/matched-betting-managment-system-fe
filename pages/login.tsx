@@ -1,5 +1,4 @@
 import type { NextPage } from 'next'
-import React from 'react'
 import styles from '../styles/Login.module.scss'
 import { AiFillFacebook, AiOutlineTwitter } from 'react-icons/ai'
 import Link from 'next/link'
